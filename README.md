@@ -1,130 +1,72 @@
-<!--
-  Profile README for: Shreyas Neelaraddi (ShreyasVN)
-  Clean, industry-focused, and aligned with AI/ML + DevOps.
--->
-
-<h1 align="left">Hi, I'm Shreyas 👋</h1>
-
-**AI/ML & DevOps Engineer | Building scalable, production-ready systems**
-
-I design, build, and deploy **AI-driven and cloud-native platforms** with a strong focus on:
-- **Reliable infrastructure** (Kubernetes, Docker, AWS)
-- **Automated delivery** (CI/CD pipelines, GitHub Actions)
-- **Practical AI/ML** (Generative AI, RAG, ML workflows)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi,%20I'm%20Shreyas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20DevOps%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
+  
+  <h3>Building scalable cloud infrastructure & intelligent AI systems.</h3>
+  
+  <a href="https://www.linkedin.com/in/shreyas-neelaraddi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shreyas2932003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br />
+</div>
 
 ---
 
-### 🚀 What I Do
+### 👨‍💻 About Me
+I am an **AI/ML and DevOps Engineer** based in India, bridging the gap between data science and scalable deployment. I specialize in building generative AI applications and automating their lifecycles using modern CI/CD and cloud-native tools.
 
-- **AI & ML Systems**
-  - RAG (Retrieval-Augmented Generation) pipelines & LLM integration  
-  - End-to-end ML workflows: data → training → serving  
-  - APIs for AI services (FastAPI / Flask based backends)
-
-- **DevOps & Cloud**
-  - Containerized apps with **Docker**  
-  - Kubernetes-based deployments, scaling & orchestration  
-  - CI/CD with **GitHub Actions** and other tools
-
-- **Backend & Data**
-  - REST APIs and microservices  
-  - Data processing workflows in Python  
-  - Working with relational & cloud storage
+* 🔭 **Currently working on:** Automating ML pipelines and deploying LLM-based applications.
+* [cite_start]☁️ **Cloud & DevOps:** Experienced in **AWS, Docker, Kubernetes, Terraform, and Ansible** for robust infrastructure[cite: 5, 11].
+* [cite_start]🧠 **AI/ML Focus:** Building RAG workflows, AI Agents, and fine-tuning models using **OpenAI, Gemini, and LangChain**[cite: 8, 12].
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**  
-Python · Bash · SQL
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-**AI / ML / Data**  
-Generative AI · RAG Pipelines · LLMs · LangChain (or similar) · scikit-learn · Pandas · NumPy  
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
-**Cloud & Containerization**  
-AWS · Docker · Kubernetes  
-
-**DevOps & Infra**  
-CI/CD (GitHub Actions) · Linux · Shell scripting  
-
-**Tools & Practices**  
-Git · GitHub · REST APIs · Testing · Logging & Monitoring
-
----
-
-### 📌 Featured Projects
-
-> Replace the placeholders with your actual repos.  
-> Pin the same repos on your GitHub profile for maximum impact.
-
-#### 🔹 RAG-based Knowledge Assistant
-A **Retrieval-Augmented Generation** system that uses an LLM + vector search to answer domain-specific queries with higher accuracy.
-
-- **Highlights:**
-  - Document ingestion (chunking, embeddings, indexing)
-  - Vector similarity search for relevant context
-  - LLM-based response generation with retrieved knowledge
-  - Focus on latency and relevance
-
-- **Tech:** Python · Generative AI · Vector DB · FastAPI · Docker  
-- **Repo:** `https://github.com/ShreyasVN/<your-rag-repo>`
-
----
-
-#### 🔹 Kubernetes-Based AI/ML Deployment
-A production-style deployment of an ML/AI service on **Kubernetes**, showcasing infrastructure skills and reliability.
-
-- **Highlights:**
-  - Containerized model/API using Docker
-  - Kubernetes manifests (Deployments, Services, Ingress)
-  - Configurations for scaling and resiliency
-  - Clear separation of dev/stage/prod configs
-
-- **Tech:** Python · Docker · Kubernetes · AWS (optional)  
-- **Repo:** `https://github.com/ShreyasVN/<your-k8s-repo>`
-
----
-
-#### 🔹 CI/CD Pipeline for Microservice / ML Service
-A fully automated **CI/CD pipeline** that builds, tests, and deploys a service.
-
-- **Highlights:**
-  - Automated tests and linting on each commit
-  - Docker image build + push on main branch
-  - Deployment step to server / Kubernetes cluster
-  - Uses GitHub Actions workflow as code
-
-- **Tech:** GitHub Actions · Docker · Python · Kubernetes / Server  
-- **Repo:** `https://github.com/ShreyasVN/<your-cicd-repo>`
-
----
-
-### 📊 How I Work
-
-- **Production mindset:** reproducible, reliable deployments  
-- **Automation first:** if it’s repetitive, I script or pipeline it  
-- **Clean code & collaboration:** clear commits, readable code, documented repos  
-- **System thinking:** from code → infra → monitoring
-
----
-
-### 📫 Let’s Connect
-
-- **LinkedIn:** [linkedin.com/in/shreyas-neelaraddi](https://www.linkedin.com/in/shreyas-neelaraddi/)  
-- **GitHub:** [github.com/ShreyasVN](https://github.com/ShreyasVN)  
-- **Email:** *(add your preferred contact email here)*  
-
----
-
-### 📈 GitHub Snapshot (Optional but Nice)
-
-You can enable these stat cards if you like the look (optional):
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=tokyonight" height="150" />
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
-> 💡 Always learning, always building — especially where **AI/ML** meets **DevOps**.
+### 🚀 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **AI Resume Screener & Interview Assistant** | `LangChain` `OpenAI` `Docker` | [cite_start]An intelligent recruitment tool using RAG and GPT models to screen resumes and conduct context-aware interviews[cite: 50, 51]. |
+| **CI/CD Pipeline Automation** | `Jenkins` `K8s` `Terraform` | [cite_start]End-to-end automated build, test, and deploy pipeline for a Flask app on a Kubernetes cluster with Prometheus monitoring[cite: 38, 40]. |
+| **Healthcare Risk Prediction System** | `Scikit-learn` `Ansible` `Docker` | [cite_start]Ensemble ML model achieving 92% accuracy for risk prediction, containerized and deployed via Ansible[cite: 46, 48]. |
+| **AI-Driven Sales Analytics** | `Power BI` `Python` `AWS` | [cite_start]Sales forecasting model (93% accuracy) with automated data workflows and AWS EC2 deployment[cite: 42, 44]. |
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=dark&hide_border=true&bg_color=00000000" height="180" alt="languages graph"  />
+</div>
