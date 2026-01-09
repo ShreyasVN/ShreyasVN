@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=250&section=header&text=Hi,%20I'm%20Shreyas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20DevOps%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
   <a href="https://github.com/ShreyasVN">
-    <img src="./Shreyas N.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF0080; margin-top: -60px; position: relative; z-index: 10;" alt="Shreyas Profile" />
+    <img src="./Shreyas%20N.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF0080; margin-top: -60px; position: relative; z-index: 10;" alt="Shreyas Profile" />
   </a>
 
   <h3>🚀 Building scalable cloud infrastructure & intelligent AI systems.</h3>
@@ -24,11 +24,11 @@
 ---
 
 ### ⚡ About Me
-[cite_start]I am an **AI/ML and DevOps Engineer** based in India, bridging the gap between data science and scalable deployment[cite: 4, 21]. [cite_start]I specialize in building generative AI applications and automating their lifecycles using modern CI/CD and cloud-native tools[cite: 4, 12].
+I am an **AI/ML and DevOps Engineer** based in India, bridging the gap between data science and scalable deployment. I specialize in building generative AI applications and automating their lifecycles using modern CI/CD and cloud-native tools.
 
 * 🔭 **Currently working on:** Automating ML pipelines and deploying LLM-based applications.
-* [cite_start]☁️ **Cloud & DevOps:** Experienced in **AWS, Docker, Kubernetes, Terraform, and Ansible** for robust infrastructure[cite: 5, 11].
-* [cite_start]🧠 **AI/ML Focus:** Building RAG workflows, AI Agents, and fine-tuning models using **OpenAI, Gemini, and LangChain**[cite: 8, 12].
+* ☁️ **Cloud & DevOps:** Experienced in **AWS, Docker, Kubernetes, Terraform, and Ansible** for robust infrastructure.
+* 🧠 **AI/ML Focus:** Building RAG workflows, AI Agents, and fine-tuning models using **OpenAI, Gemini, and LangChain**.
 
 ---
 
@@ -67,15 +67,15 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **AI Resume Screener & Interview Assistant** | `LangChain` `OpenAI` `Docker` | [cite_start]Intelligent recruitment tool using RAG and GPT models to screen resumes and conduct context-aware interviews[cite: 50, 51, 52]. |
-| **CI/CD Pipeline Automation** | `Jenkins` `K8s` `Terraform` | [cite_start]End-to-end automated build, test, and deploy pipeline for a Flask app on a Kubernetes cluster with Prometheus monitoring[cite: 38, 39, 40]. |
-| **Healthcare Risk Prediction System** | `Scikit-learn` `Ansible` `Docker` | [cite_start]Ensemble ML model achieving 92% accuracy for risk prediction, containerized and deployed via Ansible[cite: 46, 48, 49]. |
-| **AI-Driven Sales Analytics** | `Power BI` `Python` `AWS` | [cite_start]Sales forecasting model (93% accuracy) with automated data workflows and AWS EC2 deployment[cite: 42, 44, 45]. |
+| **AI Resume Screener & Interview Assistant** | `LangChain` `OpenAI` `Docker` | Intelligent recruitment tool using RAG and GPT models to screen resumes and conduct context-aware interviews. |
+| **CI/CD Pipeline Automation** | `Jenkins` `K8s` `Terraform` | End-to-end automated build, test, and deploy pipeline for a Flask app on a Kubernetes cluster with Prometheus monitoring. |
+| **Healthcare Risk Prediction System** | `Scikit-learn` `Ansible` `Docker` | Ensemble ML model achieving 92% accuracy for risk prediction, containerized and deployed via Ansible. |
+| **AI-Driven Sales Analytics** | `Power BI` `Python` `AWS` | Sales forecasting model (93% accuracy) with automated data workflows and AWS EC2 deployment. |
 
 ---
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
 </div>
