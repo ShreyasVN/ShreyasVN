@@ -7,7 +7,7 @@
 
   <h3>🚀 Building scalable cloud infrastructure & intelligent AI systems.</h3>
   
-  <a href="./resume.pdf">
+  <a href="./Resume.pdf">
     <img src="https://img.shields.io/badge/Download_Resume-FF0080?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
   </a>
   <br /><br />
