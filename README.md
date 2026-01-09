@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=250&section=header&text=Hi,%20I'm%20Shreyas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20DevOps%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
   <a href="https://github.com/ShreyasVN">
-    <img src="./profile.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF0080; margin-top: -60px; position: relative; z-index: 10;" alt="Shreyas Profile" />
+    <img src="./Shreyas N.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF0080; margin-top: -60px; position: relative; z-index: 10;" alt="Shreyas Profile" />
   </a>
 
   <h3>🚀 Building scalable cloud infrastructure & intelligent AI systems.</h3>
