@@ -1,149 +1,81 @@
-<!--
-  Profile README for: Shreyas Neelaraddi (ShreyasVN)
-  Focused on AI/ML + DevOps, with clean but colorful visual styling.
--->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:7928CA&height=250&section=header&text=Hi,%20I'm%20Shreyas!&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20DevOps%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
 
-<!-- Optional: Top banner image (you can replace this URL with your own LinkedIn-style banner hosted somewhere like GitHub or Imgur) -->
-<!-- <p align="center">
-  <img src="https://your-banner-url-here" alt="Shreyas Neelaraddi - AI/ML & DevOps Engineer" />
-</p> -->
+  <a href="https://github.com/ShreyasVN">
+    <img src="./profile.png" width="160" height="160" style="border-radius: 50%; border: 4px solid #FF0080; margin-top: -60px; position: relative; z-index: 10;" alt="Shreyas Profile" />
+  </a>
 
-<h1 align="left">Hi, I'm Shreyas 👋</h1>
+  <h3>🚀 Building scalable cloud infrastructure & intelligent AI systems.</h3>
+  
+  <a href="./resume.pdf">
+    <img src="https://img.shields.io/badge/Download_Resume-FF0080?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Download Resume" />
+  </a>
+  <br /><br />
 
-**AI/ML & DevOps Engineer · Building scalable, production-grade systems**
-
-I work at the intersection of **AI/ML**, **DevOps**, and **cloud-native engineering** —  
-designing systems that are **automated**, **observable**, and **ready for production**.
+  <a href="https://www.linkedin.com/in/shreyas-neelaraddi/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:shreyas2932003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <br />
+</div>
 
 ---
 
-### ⚙️ Core Focus Areas
+### ⚡ About Me
+[cite_start]I am an **AI/ML and DevOps Engineer** based in India, bridging the gap between data science and scalable deployment[cite: 4, 21]. [cite_start]I specialize in building generative AI applications and automating their lifecycles using modern CI/CD and cloud-native tools[cite: 4, 12].
 
-- 🤖 **AI & ML Systems**
-  - RAG (Retrieval-Augmented Generation) pipelines & LLM-powered applications  
-  - Model serving, APIs for AI services, and performance tuning  
-  - End-to-end ML workflows: data → training → evaluation → deployment
-
-- ☁️ **Cloud & DevOps**
-  - Containerization with **Docker**, orchestration with **Kubernetes**  
-  - CI/CD pipelines using **GitHub Actions** (and others)  
-  - Infrastructure automation & best practices for reliability
-
-- 🧱 **Backend & Data Engineering**
-  - RESTful services / microservices in **Python**  
-  - Data processing, ETL-ish flows, and integration with storage / APIs  
-  - Logging, metrics, and monitoring for production workloads
+* 🔭 **Currently working on:** Automating ML pipelines and deploying LLM-based applications.
+* [cite_start]☁️ **Cloud & DevOps:** Experienced in **AWS, Docker, Kubernetes, Terraform, and Ansible** for robust infrastructure[cite: 5, 11].
+* [cite_start]🧠 **AI/ML Focus:** Building RAG workflows, AI Agents, and fine-tuning models using **OpenAI, Gemini, and LangChain**[cite: 8, 12].
 
 ---
 
 ### 🛠️ Tech Stack
 
-<div align="left">
+**Languages & Databases**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shell_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-**Languages**  
-<span style="background-color:#1E293B;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">Python</span>
-<span style="background-color:#111827;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">Bash</span>
-<span style="background-color:#0F172A;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">SQL</span>
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+</p>
 
-<br/><br/>
-
-**AI / ML / Data**  
-<span style="background-color:#4C1D95;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">Generative AI</span>
-<span style="background-color:#312E81;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">RAG Pipelines</span>
-<span style="background-color:#1D4ED8;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">LLMs</span>
-<span style="background-color:#0F766E;color:#ECFEFF;padding:4px 8px;border-radius:6px;margin-right:6px;">Pandas</span>
-<span style="background-color:#047857;color:#ECFEFF;padding:4px 8px;border-radius:6px;margin-right:6px;">NumPy</span>
-<span style="background-color:#15803D;color:#ECFEFF;padding:4px 8px;border-radius:6px;margin-right:6px;">scikit-learn</span>
-
-<br/><br/>
-
-**Cloud & Containerization**  
-<span style="background-color:#0B1120;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">AWS</span>
-<span style="background-color:#111827;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">Docker</span>
-<span style="background-color:#1F2933;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">Kubernetes</span>
-
-<br/><br/>
-
-**DevOps & Infra**  
-<span style="background-color:#111827;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">GitHub Actions</span>
-<span style="background-color:#1F2933;color:#F9FAFB;padding:4px 8px;border-radius:6px;margin-right:6px;">CI/CD</span>
-<span style="background-color:#020617;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">Linux</span>
-<span style="background-color:#0F172A;color:#E5E7EB;padding:4px 8px;border-radius:6px;margin-right:6px;">Shell Scripting</span>
-
-</div>
-
----
-
-### 📌 Featured Projects
-
-> Tip: Pin these repos on your GitHub profile so they appear below this README.
-
-#### 🔹 RAG-based Knowledge Assistant
-A **Retrieval-Augmented Generation** system that uses an LLM with vector search to answer domain-specific questions using your own data.
-
-- **Highlights**
-  - Document ingestion pipeline (chunking → embeddings → indexing)  
-  - Vector similarity search for contextual retrieval  
-  - LLM-based response generation with grounding  
-  - Emphasis on accuracy, observability, and performance
-
-- **Tech:** Python · Generative AI · Vector DB · FastAPI · Docker  
-- **Repo:** `https://github.com/ShreyasVN/<your-rag-repo>`
-
----
-
-#### 🔹 Kubernetes-Powered AI/ML Service
-A containerized AI/ML service deployed on **Kubernetes**, showcasing real-world DevOps and cloud-native skills.
-
-- **Highlights**
-  - ML/AI model/API packaged in Docker  
-  - Kubernetes manifests (Deployment, Service, Ingress, ConfigMaps, etc.)  
-  - Horizontal scaling and resilient deployment patterns  
-  - Clear environment-based configuration (dev/stage/prod)
-
-- **Tech:** Python · Docker · Kubernetes · AWS (if used)  
-- **Repo:** `https://github.com/ShreyasVN/<your-k8s-repo>`
-
----
-
-#### 🔹 CI/CD Pipeline for AI/ML or Microservice
-A **CI/CD workflow** that builds, tests, and deploys a production-like service using GitHub Actions.
-
-- **Highlights**
-  - Automated tests + linting on each push/PR  
-  - Docker image build & push on main branch  
-  - Auto-deploy to a server or Kubernetes cluster  
-  - Workflow as code with reusable jobs
-
-- **Tech:** GitHub Actions · Docker · Python · (Kubernetes / VPS)  
-- **Repo:** `https://github.com/ShreyasVN/<your-cicd-repo>`
-
----
-
-### 🧠 How I Think & Work
-
-- 🧩 **Systems mindset:** from code → infrastructure → monitoring → feedback loops  
-- 🔁 **Automation first:** if I repeat it, I script it or put it in a pipeline  
-- 📊 **Observability focus:** logs, metrics, and dashboards over guesswork  
-- 🤝 **Collaboration:** clean commits, readable code, and clear documentation
-
----
-
-### 📊 GitHub Snapshot
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+**AI & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 </p>
 
 ---
 
-### 📫 Connect With Me
+### 🚀 Featured Projects
 
-- 🌐 **GitHub:** [github.com/ShreyasVN](https://github.com/ShreyasVN)  
-- 💼 **LinkedIn:** [linkedin.com/in/shreyas-neelaraddi](https://www.linkedin.com/in/shreyas-neelaraddi/)  
-- ✉️ **Email:** _add your preferred email here_  
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **AI Resume Screener & Interview Assistant** | `LangChain` `OpenAI` `Docker` | [cite_start]Intelligent recruitment tool using RAG and GPT models to screen resumes and conduct context-aware interviews[cite: 50, 51, 52]. |
+| **CI/CD Pipeline Automation** | `Jenkins` `K8s` `Terraform` | [cite_start]End-to-end automated build, test, and deploy pipeline for a Flask app on a Kubernetes cluster with Prometheus monitoring[cite: 38, 39, 40]. |
+| **Healthcare Risk Prediction System** | `Scikit-learn` `Ansible` `Docker` | [cite_start]Ensemble ML model achieving 92% accuracy for risk prediction, containerized and deployed via Ansible[cite: 46, 48, 49]. |
+| **AI-Driven Sales Analytics** | `Power BI` `Python` `AWS` | [cite_start]Sales forecasting model (93% accuracy) with automated data workflows and AWS EC2 deployment[cite: 42, 44, 45]. |
 
 ---
 
-> 🌌 Always exploring where **AI/ML**, **DevOps**, and **cloud-native** systems intersect — and turning ideas into production-ready solutions.
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShreyasVN&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyasVN&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" height="180" alt="languages graph"  />
+</div>
